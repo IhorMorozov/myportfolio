@@ -8,10 +8,15 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: black;
 }
+img {
+    max-width: 100%;
+}
 .container {
     max-width: 1110px;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .none {
@@ -91,7 +96,7 @@ body {
 }
 .card {
     margin-bottom: 30px;
-    max-width: 540px;
+    max-width: 525px;
     background-color: #fff;
     box-sizing: border-box;
     box-shadow: 0px 10px 40px rgba(81, 79, 209, 0.24);
@@ -141,10 +146,7 @@ body {
     padding-bottom: 130px;
     color: white;
     background: #1E4776;
-    /* #342923 
-    563c2d
-    292929
-    3c332f*/
+   
 }
 
 .footer-row {
