@@ -3,10 +3,14 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: black;
+    
 }
 img {
     max-width: 100%;
@@ -35,8 +39,8 @@ img {
     width: 100%;
     height: 100vh;
 
-    background-color: #275bec;
-    background-image: url('./../img/header/header-bg5.jpg');
+    /* background-color: #275bec; */
+    /* background-image: url('./../img/header/header-bg5.jpg'); */
     background-size: cover;
     background-position: center;
 }
