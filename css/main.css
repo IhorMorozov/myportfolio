@@ -10,7 +10,6 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: black;
-    
 }
 img {
     max-width: 100%;
@@ -107,18 +106,18 @@ img {
     transition: transform 0.2s ease-in;
 }
 
-.card:hover{
+.card:hover {
     transform: translateY(-15px);
 }
-.card-link{
+.card-link {
     padding: 20px;
-    color:black;
+    color: black;
     text-decoration: none;
     display: block;
     transition: color 0.2s ease-in;
 }
-.card-link:hover{
-    color: rgb(39,91,236);
+.card-link:hover {
+    color: rgb(39, 91, 236);
 }
 
 .card:last-child,
@@ -149,8 +148,7 @@ img {
     padding-top: 45px;
     padding-bottom: 130px;
     color: white;
-    background: #1E4776;
-   
+    background: #1e4776;
 }
 
 .footer-row {
@@ -215,7 +213,7 @@ img {
     text-transform: uppercase;
     text-decoration: none;
 }
-.footer-button:hover{
+.footer-button:hover {
     color: #275bec;
     transition: all 0.2s ease-in;
     background: white;
@@ -255,7 +253,7 @@ img {
     margin-bottom: 15px;
 }
 
-.project-btn-back{
+.project-btn-back {
     display: inline-block;
     height: 60px;
     padding-left: 30px;
@@ -273,7 +271,7 @@ img {
     text-decoration: none;
 }
 
-.project-btn-back:hover{
+.project-btn-back:hover {
     background: #275bec;
     color: white;
     transition: all 0.2s ease-in;
